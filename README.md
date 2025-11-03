@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🛡️ My Cybersecurity Journey
 
-<!--
-**CoffeeRainfallPDX/CoffeeRainfallPDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm documenting my path from beginner to SOC Analyst, building both technical and analytical skills.
+Currently studying:
+- [x] CompTIA A+
+- [ ] Network+
+- [ ] Security+
+- [ ] Hack The Box Academy SOC Path
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Next goals:
+- Build a home lab in VirtualBox
+- Practice log analysis and packet captures
+- Contribute to open-source security tools
